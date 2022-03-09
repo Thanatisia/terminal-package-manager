@@ -54,6 +54,7 @@
 ## Usage
 
 1. Change Permission
+
 	chmod +x main.sh
 
 2. (OPTIONAL) Add directory to PATH
