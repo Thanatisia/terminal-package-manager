@@ -10,23 +10,23 @@
 
 ## Project Information
 
-Author: Asura
-Created: 2022-03-09 2247H, Asura
-CHANGELOGS: [Changelogs](CHANGELOGS.md)
+- Author: Asura
+- Created: 2022-03-09 2247H, Asura
+- CHANGELOGS: [Changelogs](CHANGELOGS.md)
 
 
 ## Background
 - A Cross-Distro Package Manager Script/Utility that both beginners and linux regulars can love
 
-:: Features
-	- Easy package management script for both beginners and linux regulars
-	- Includes Distro-specific controls
-	- All-in-one, aims to be usable on all distros
-		- Dynamically adjust package manager according to current distro as well as the options
-		- If distro contains additional package manager support (i.e. AUR)
-			- If ArchLinux: AUR control will also be supported (AUR Helper specific)
+- Features
+	* Easy package management script for both beginners and linux regulars
+	* Includes Distro-specific controls
+	* All-in-one, aims to be usable on all distros
+		> Dynamically adjust package manager according to current distro as well as the options
+		> If distro contains additional package manager support (i.e. AUR)
+			> If ArchLinux: AUR control will also be supported (AUR Helper specific)
 
-:: Options:
+- Options:
       o S : Search packages
       o L : List Installed Packages
       o I : Install Packages
