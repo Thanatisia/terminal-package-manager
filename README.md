@@ -57,6 +57,7 @@
 	chmod +x main.sh
 
 2. (OPTIONAL) Add directory to PATH
+
 	PATH+="/dir/to/main.sh":
 
 3. Execute Program
