@@ -22,15 +22,15 @@
 	* Easy package management script for both beginners and linux regulars
 	* Includes Distro-specific controls
 	* All-in-one, aims to be usable on all distros
-		> Dynamically adjust package manager according to current distro as well as the options
-		> If distro contains additional package manager support (i.e. AUR)
-			> If ArchLinux: AUR control will also be supported (AUR Helper specific)
+		- Dynamically adjust package manager according to current distro as well as the options
+		- If distro contains additional package manager support (i.e. AUR)
+			- If ArchLinux: AUR control will also be supported (AUR Helper specific)
 
 - Options:
-      o S : Search packages
-      o L : List Installed Packages
-      o I : Install Packages
-      o R : Remove Packages
+      * S : Search packages
+      * L : List Installed Packages
+      * I : Install Packages
+      * R : Remove Packages
 
 ## Pre-Requisites
 
