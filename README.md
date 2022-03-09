@@ -27,10 +27,10 @@
 			- If ArchLinux: AUR control will also be supported (AUR Helper specific)
 
 - Options:
-      * S : Search packages
-      * L : List Installed Packages
-      * I : Install Packages
-      * R : Remove Packages
+	* S : Search packages
+	* L : List Installed Packages
+      	* I : Install Packages
+      	* R : Remove Packages
 
 ## Pre-Requisites
 
@@ -42,14 +42,14 @@
 	```
 	Syntax: git clone [repository_url]
 	```
-	git clone https://github.com/Thanatisia/tpm
+	git clone https://github.com/Thanatisia/terminal-package-manager
 
 - File-Only
 	```
 	- Download via curl
 		Syntax: curl -L -O [file_raw_url] [filename (optional)]
 	```
-	curl -L -O "https://raw.githubusercontent.com/Thanatisia/base/main/tpm/main.sh"
+	curl -L -O "https://raw.githubusercontent.com/Thanatisia/terminal-package-manager/main/main.sh"
 
 ## Usage
 
