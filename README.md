@@ -70,4 +70,5 @@
 
 ## Remarks
 - Many thanks to the following for somehow giving me the random idea that came to my head
+
 	[ChrisTitusTech](https://youtube.com/c/ChrisTitusTech) : was watching the video on "Do not care about Distro Hopping" 
