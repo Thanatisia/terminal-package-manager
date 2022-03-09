@@ -29,8 +29,8 @@
 - Options:
 	* S : Search packages
 	* L : List Installed Packages
-      	* I : Install Packages
-      	* R : Remove Packages
+	* I : Install Packages
+	* R : Remove Packages
 
 ## Pre-Requisites
 
