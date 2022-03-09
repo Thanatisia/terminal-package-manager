@@ -63,9 +63,11 @@
 
 3. Execute Program
 	- If not added to PATH
+
 		./main.sh
 
 	- If added to PATH
+
 		main.sh
 
 ## Remarks
